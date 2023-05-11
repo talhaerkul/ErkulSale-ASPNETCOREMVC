@@ -1,0 +1,36 @@
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.entity\bin\Debug\net7.0\erkulSale.entity.deps.json
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.entity\bin\Debug\net7.0\erkulSale.entity.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.entity\bin\Debug\net7.0\erkulSale.entity.pdb
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.entity\obj\Debug\net7.0\erkulSale.entity.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.entity\obj\Debug\net7.0\erkulSale.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.entity\obj\Debug\net7.0\erkulSale.entity.AssemblyInfoInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.entity\obj\Debug\net7.0\erkulSale.entity.AssemblyInfo.cs
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.entity\obj\Debug\net7.0\erkulSale.entity.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.entity\obj\Debug\net7.0\erkulSale.entity.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.entity\obj\Debug\net7.0\refint\erkulSale.entity.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.entity\obj\Debug\net7.0\erkulSale.entity.pdb
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.entity\obj\Debug\net7.0\ref\erkulSale.entity.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.entity\bin\Debug\net7.0\erkulSale.entity.deps.json
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.entity\bin\Debug\net7.0\erkulSale.entity.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.entity\bin\Debug\net7.0\erkulSale.entity.pdb
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.entity\obj\Debug\net7.0\erkulSale.entity.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.entity\obj\Debug\net7.0\erkulSale.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.entity\obj\Debug\net7.0\erkulSale.entity.AssemblyInfoInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.entity\obj\Debug\net7.0\erkulSale.entity.AssemblyInfo.cs
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.entity\obj\Debug\net7.0\erkulSale.entity.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.entity\obj\Debug\net7.0\erkulSale.entity.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.entity\obj\Debug\net7.0\refint\erkulSale.entity.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.entity\obj\Debug\net7.0\erkulSale.entity.pdb
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.entity\obj\Debug\net7.0\ref\erkulSale.entity.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.entity\bin\Debug\net7.0\erkulSale.entity.deps.json
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.entity\bin\Debug\net7.0\erkulSale.entity.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.entity\bin\Debug\net7.0\erkulSale.entity.pdb
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.entity\obj\Debug\net7.0\erkulSale.entity.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.entity\obj\Debug\net7.0\erkulSale.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.entity\obj\Debug\net7.0\erkulSale.entity.AssemblyInfoInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.entity\obj\Debug\net7.0\erkulSale.entity.AssemblyInfo.cs
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.entity\obj\Debug\net7.0\erkulSale.entity.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.entity\obj\Debug\net7.0\erkulSale.entity.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.entity\obj\Debug\net7.0\refint\erkulSale.entity.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.entity\obj\Debug\net7.0\erkulSale.entity.pdb
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.entity\obj\Debug\net7.0\ref\erkulSale.entity.dll

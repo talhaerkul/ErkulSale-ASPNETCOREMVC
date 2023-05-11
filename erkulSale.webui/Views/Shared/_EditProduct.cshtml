@@ -1,0 +1,10 @@
+@model Product
+<div class="card">
+    <img class="card-img-top" src="~/img/@Model.ImgUrl" alt="">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <p class="card-text">@Model.Price TL</p>
+        <a class="btn btn-primary" style="margin-bottom: 10px;" asp-area="" asp-controller="Admin" asp-action="Edit" asp-route-id=@Model.Id >Güncelle</a>
+        <a class="btn btn-warning" href="~/@Model.Url" >Ürün Sayfasına Git</a>
+    </div>
+</div>

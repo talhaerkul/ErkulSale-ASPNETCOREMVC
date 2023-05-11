@@ -1,0 +1,10 @@
+@model Product
+<div class="card">
+    <img class="card-img-top" src="~/img/@Model.ImgUrl" alt="">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <p class="card-text">@Model.Price TL</p>
+        @* <a href="/product/details/@Model.id" class="btn btn-primary" >İncele</a> *@
+        <a class="btn btn-danger" asp-area="" asp-controller="Admin" asp-action="" asp-route-id=@Model.Id >Kategoriden Çıkart</a>
+    </div>
+</div>

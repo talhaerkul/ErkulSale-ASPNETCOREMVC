@@ -1,0 +1,31 @@
+@model Product
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Details</title>
+</head>
+
+<body>
+    <div class="row">
+        <div class="col-md-5">
+            <div class="card">
+                <img class="card-img-top" src="https://www.e-ville.com/img/p/27604-128804-thickbox.jpg" alt="">
+                <div class="card-body">
+                    <h4 class="card-title">@Model.Name</h4>
+                    <h1 class="card-title">@Model.Price TL</h1>
+                    <p class="card-text">@Model.Description</p>
+                    <a class="btn btn-danger" asp-area="" asp-controller="Admin" asp-action="DeleteApprove"asp-route-id=@Model.Id>Sil</a>
+
+                    @* asp-area="" asp-controller="Product" asp-action="Index" *@
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>

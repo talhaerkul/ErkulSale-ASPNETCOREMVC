@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\erkulSale.webui.props" />
+</Project>

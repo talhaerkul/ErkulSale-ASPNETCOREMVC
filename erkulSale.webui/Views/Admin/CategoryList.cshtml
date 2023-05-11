@@ -1,0 +1,20 @@
+@model List<Category>
+@{
+    var categories = Model;
+}
+<div class="row">
+    @foreach (var item in categories)
+    {
+        <div class="col-md-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <p class="card-text">Url: @item.Url</p>
+                    <a style="text-decoration:none" class="btn link-primary" href="/Admin/UpdateC/@item.Id">Güncelle</a>
+                    <a style="text-decoration:none" class="btn link-danger" href="/Admin/DeleteC/@item.Id">Kaldırma İşlemi</a>
+                </div>
+            </div>
+        </div>
+
+    }
+</div>

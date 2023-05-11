@@ -1,0 +1,95 @@
+@model ProductModel
+
+<h1 class="h3">Ürün Güncelle</h1>
+<hr>
+
+<form asp-controller="Admin" asp-action="Edit" method="POST" class="col-md-12" enctype="multipart/form-data">
+    <div class="row">
+        <div class="col-md-7">
+            <input type="hidden" name="ProductId" value="@Model.Id">
+            <div class="form-group row mb-3">
+                <label asp-for="Name" class="col-sm-2 col-form-label"></label>
+                <div class="col-sm-10">
+                    <input id="nameid" class="form-control" asp-for="Name">
+                </div>
+            </div>
+            <div class="form-group row mb-3">
+                <label asp-for="Url" class="col-sm-2 col-form-label"></label>
+                <div class="col-sm-10">
+                    <input class="form-control disabled" asp-for="Url">
+                </div>
+            </div>
+            <div class="form-group row mb-3">
+                <label asp-for="Price" class="col-sm-2 col-form-label"></label>
+                <div class="col-sm-10">
+                    <input class="form-control" asp-for="Price">
+                </div>
+            </div>
+            <div class="form-group row mb-3">
+                <label asp-for="Description" class="col-sm-2 col-form-label"></label>
+                <div class="col-sm-10">
+                    <textarea id="editor" class="form-control" asp-for="Description"></textarea>
+                </div>
+            </div>
+            <div class="form-group row">
+                <label asp-for="ImgUrl" class="col-sm-2 col-form-label"></label>
+                <div class="col-sm-10">
+                    <input type="hidden" asp-for="ImgUrl">
+                    <img src="~/img/@Model.ImgUrl" width="80"/>
+                    <input type="file" name="file">
+                </div>
+            </div>
+            <div class="form-group row mb-3">
+                <label asp-for="IsApproved" class="col-sm-3 col-form-label"></label>
+                <div class="col-sm-3">
+                    <select class="form-select" asp-for="IsApproved">
+                        <option value="0">Hayır</option>
+                        <option value="1">Evet</option>
+                    </select>
+                </div>
+            </div>
+            <div class="form-group row mb-3">
+                <label asp-for="IsHome" class="col-sm-3 col-form-label"></label>
+                <div class="col-sm-3">
+                    <select class="form-select" asp-for="IsHome">
+                        <option value="0">Hayır</option>
+                        <option value="1">Evet</option>
+                    </select>
+                </div>
+            </div>
+            <div class="form-group row mb-3">
+            <div class="col-sm-10 offset-sm-2">
+                <button type="submit" class="btn btn-dark">Kaydet</button>
+            </div>
+            </div>
+        </div>
+        <div class="col-md-5">
+            @for (int i = 0; i < Model.SelectedCategories.Count; i++)
+            {
+                <input type="hidden" name="SelectedCategories[@i].CategoryId" value="@Model.SelectedCategories[@i].Id">
+                <input type="hidden" name="SelectedCategories[@i].Name" value="@Model.SelectedCategories[@i].Name">
+            }
+
+            @foreach (var item in (List<Category>)ViewBag.Categories)
+            {
+                <div class="custom-control custom-checkbox">
+                    <input type="checkbox" 
+                    class="form-check-input" 
+                    name="categoryIds"
+                    value="@item.Id"
+                    id="category_@(item.Id)" 
+                    @(Model.SelectedCategories.Any(i=>i.Id==item.Id)?"checked":"")>
+                    <label style="margin-left: 10px;" class="form-check-label" for="category_@(item.Id)">@item.Name</label>
+                </div>
+            }
+        </div>
+    </div>    
+</form>
+
+@section Scripts
+{
+    <script src="/ckeditor/ckeditor.js"></script>
+    <script>
+        CKEDITOR.replace('editor');
+    </script>
+}

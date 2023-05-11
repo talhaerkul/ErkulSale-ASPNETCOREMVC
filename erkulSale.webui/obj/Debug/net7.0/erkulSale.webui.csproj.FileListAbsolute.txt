@@ -1,0 +1,174 @@
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\appsettings.json
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.webui.staticwebassets.runtime.json
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.webui.exe
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.webui.deps.json
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.webui.runtimeconfig.json
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.webui.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.webui.pdb
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Humanizer.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.data.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.entity.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.data.pdb
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.entity.pdb
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.AssemblyInfoInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.AssemblyInfo.cs
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.RazorAssemblyInfo.cache
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.RazorAssemblyInfo.cs
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\obj\Debug\net7.0\staticwebassets\msbuild.erkulSale.webui.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\obj\Debug\net7.0\staticwebassets\msbuild.build.erkulSale.webui.props
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.erkulSale.webui.props
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.erkulSale.webui.props
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\obj\Debug\net7.0\scopedcss\bundle\erkulSale.webui.styles.css
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\obj\Debug\net7.0\scopedcss\projectbundle\erkulSale.webui.bundle.scp.css
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.csproj.CopyComplete
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\obj\Debug\net7.0\refint\erkulSale.webui.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.pdb
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.genruntimeconfig.cache
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\obj\Debug\net7.0\ref\erkulSale.webui.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.business.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.business.pdb
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\package-lock.json
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\package.json
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Iyzipay.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\appsettings.json
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\package-lock.json
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\package.json
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.webui.staticwebassets.runtime.json
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.webui.exe
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.webui.deps.json
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.webui.runtimeconfig.json
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.webui.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.webui.pdb
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Humanizer.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Iyzipay.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.business.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.data.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.entity.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.data.pdb
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.entity.pdb
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.business.pdb
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.AssemblyInfoInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.AssemblyInfo.cs
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.RazorAssemblyInfo.cache
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.RazorAssemblyInfo.cs
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\obj\Debug\net7.0\staticwebassets\msbuild.erkulSale.webui.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\obj\Debug\net7.0\staticwebassets\msbuild.build.erkulSale.webui.props
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.erkulSale.webui.props
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.erkulSale.webui.props
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\obj\Debug\net7.0\scopedcss\bundle\erkulSale.webui.styles.css
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\obj\Debug\net7.0\scopedcss\projectbundle\erkulSale.webui.bundle.scp.css
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.csproj.CopyComplete
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\obj\Debug\net7.0\refint\erkulSale.webui.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.pdb
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.genruntimeconfig.cache
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.webui\obj\Debug\net7.0\ref\erkulSale.webui.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\appsettings.json
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\package-lock.json
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\package.json
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.webui.staticwebassets.runtime.json
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.webui.exe
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.webui.deps.json
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.webui.runtimeconfig.json
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.webui.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.webui.pdb
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Humanizer.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Iyzipay.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.business.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.data.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.entity.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.data.pdb
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.entity.pdb
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\bin\Debug\net7.0\erkulSale.business.pdb
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.AssemblyInfoInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.AssemblyInfo.cs
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.RazorAssemblyInfo.cache
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.RazorAssemblyInfo.cs
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\obj\Debug\net7.0\staticwebassets\msbuild.erkulSale.webui.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\obj\Debug\net7.0\staticwebassets\msbuild.build.erkulSale.webui.props
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.erkulSale.webui.props
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.erkulSale.webui.props
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\obj\Debug\net7.0\scopedcss\bundle\erkulSale.webui.styles.css
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\obj\Debug\net7.0\scopedcss\projectbundle\erkulSale.webui.bundle.scp.css
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.csproj.CopyComplete
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\obj\Debug\net7.0\refint\erkulSale.webui.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.pdb
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\obj\Debug\net7.0\erkulSale.webui.genruntimeconfig.cache
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.webui\obj\Debug\net7.0\ref\erkulSale.webui.dll

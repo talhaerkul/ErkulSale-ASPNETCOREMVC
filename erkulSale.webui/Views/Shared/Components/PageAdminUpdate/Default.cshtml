@@ -1,0 +1,15 @@
+@model PageInfo
+@{
+    var pageInfo = Model;
+}
+
+<nav aria-label="Page navigation example" style="margin-top: 25px;">
+    <ul class="pagination justify-content-center">
+        
+        @for (int i = 1; i <= @pageInfo.totalPages(); i++)
+        {
+            <li class="page-item"><a class="page-link" href="~/admin/update?page=@i">@i</a></li>
+        }
+       
+    </ul>
+</nav>

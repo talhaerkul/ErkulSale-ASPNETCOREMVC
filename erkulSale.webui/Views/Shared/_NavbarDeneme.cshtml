@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://fonts.googleapis.com/css?family=Quicksand:400,600,700&display=swap" rel="stylesheet">
+
+    @* <link rel="stylesheet" href="fonts/icomoon/style.css">
+
+    <link rel="stylesheet" href="css/owl.carousel.min.css"> *@
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <!-- Style -->
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+
+    @* <div class="site-mobile-menu site-navbar-target">
+        <div class="site-mobile-menu-header">
+            <div class="site-mobile-menu-close mt-3">
+                <span class="icon-close2 js-menu-toggle"></span>
+            </div>
+        </div>
+        <div class="site-mobile-menu-body"></div>
+    </div> *@
+
+
+
+    <header class="site-navbar site-navbar-target bg-white" role="banner">
+
+        <div class="container">
+            <div class="row align-items-center position-relative">
+
+                <div class="col-lg-4">
+                    <nav class="site-navigation text-right ml-auto " role="navigation">
+                        <ul class="site-menu main-menu js-clone-nav ml-auto d-none d-lg-block">
+                            <li class="active"><a class="nav-link active" style="color: white;" aria-current="page"
+                                    asp-controller="Home" asp-action="Index">Ana Sayfa</a></li>
+                            <li><a class="nav-link" style="color: white;" asp-controller="Product"
+                                    asp-action="List">Ürünler</a></li>
+                            <li><a href="services.html" class="nav-link">Services</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <div class="col-lg-4 text-center">
+                    <div class="site-logo">
+                        <a class="navbar-brand" style="color: white;">ERKUL SALE</a>
+                    </div>
+
+
+                    <div class="ml-auto toggle-button d-inline-block d-lg-none"><a href="#"
+                            class="site-menu-toggle py-5 js-menu-toggle text-black"><span
+                                class="icon-menu h3 text-black"></span></a></div>
+                </div>
+                <div class="col-lg-4">
+                    <nav class="site-navigation text-left mr-auto " role="navigation">
+                        <ul class="site-menu main-menu js-clone-nav ml-auto d-none d-lg-block">
+                            
+                                <form action="/product/list" class="d-flex" role="search">
+                                    <input name="q" class="form-control me-2" type="search" placeholder="Ara"
+                                        aria-label="Ara">
+                                    <button class="btn btn-outline-success" type="submit">Ara</button>
+                                </form>
+                            
+                            <li>
+                                <ul>
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link dropdown-toggle" style="color: gray;" href="#" role="button"
+                                            data-bs-toggle="dropdown" aria-expanded="false">
+                                            Admin
+                                        </a>
+                                        <ul class="dropdown-menu">
+                                            <li><a class="dropdown-item" asp-controller="Admin" asp-action="Create">Ürün
+                                                    Ekle</a></li>
+                                            <li>
+                                                <hr class="dropdown-divider">
+                                            </li>
+                                            <li><a class="dropdown-item" asp-controller="Admin" asp-action="Update">Ürün
+                                                    Güncelle</a>
+                                            </li>
+                                            <li>
+                                                <hr class="dropdown-divider">
+                                            </li>
+                                            <li><a class="dropdown-item" asp-controller="Admin"
+                                                    asp-action="DeleteList">Ürün Sil</a>
+                                            </li>
+                                            <li>
+                                                <hr class="dropdown-divider">
+                                            </li>
+                                            <li>
+                                                <hr class="dropdown-divider">
+                                            </li>
+                                            <li><a class="dropdown-item" asp-controller="Admin"
+                                                    asp-action="CreateC">Kategori Ekle</a></li>
+                                            <li>
+                                                <hr class="dropdown-divider">
+                                            </li>
+                                            <li><a class="dropdown-item" asp-controller="Admin"
+                                                    asp-action="CategoryList">Kategori Güncelle</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                <li><a href="contact.html" class="nav-link">Çıkış Yap</a></li>
+                            }
+                            else
+                            {
+                                <li><a href="contact.html" class="nav-link">Giriş Yap</a></li>
+                                <li><a href="contact.html" class="nav-link">Kayıt Ol</a></li>
+                            }
+
+
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+
+    </header>
+
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.sticky.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+</html>

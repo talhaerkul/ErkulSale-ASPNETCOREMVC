@@ -1,0 +1,12 @@
+@model Product
+<a style="text-decoration:none" class="link-success" href="~/@Model.Url">
+    <div class="product-card" style="height: 360px; width: 350px; margin-right: 20px;">
+        <div class="card-top" style="height: 220px; width: 350px;">
+            <img style="height: 220px; width: auto" src="~/img/@Model.ImgUrl" alt="">
+        </div>
+        <div class="card-body">
+            <h5 class="card-title">@Model.Name</h5>
+            <p class="card-text">@Model.Price TL</p>
+        </div>
+    </div>
+</a>

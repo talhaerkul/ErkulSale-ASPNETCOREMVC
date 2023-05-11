@@ -1,0 +1,51 @@
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.business\bin\Debug\net7.0\erkulSale.business.deps.json
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.business\bin\Debug\net7.0\erkulSale.business.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.business\bin\Debug\net7.0\erkulSale.business.pdb
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.business\bin\Debug\net7.0\erkulSale.data.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.business\bin\Debug\net7.0\erkulSale.entity.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.business\bin\Debug\net7.0\erkulSale.entity.pdb
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.business\bin\Debug\net7.0\erkulSale.data.pdb
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.business\obj\Debug\net7.0\erkulSale.business.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.business\obj\Debug\net7.0\erkulSale.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.business\obj\Debug\net7.0\erkulSale.business.AssemblyInfoInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.business\obj\Debug\net7.0\erkulSale.business.AssemblyInfo.cs
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.business\obj\Debug\net7.0\erkulSale.business.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.business\obj\Debug\net7.0\erkulSale.business.csproj.CopyComplete
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.business\obj\Debug\net7.0\erkulSale.business.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.business\obj\Debug\net7.0\refint\erkulSale.business.dll
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.business\obj\Debug\net7.0\erkulSale.business.pdb
+C:\Users\talha\OneDrive\Masaüstü\Yeni klasör\ErkulSale\erkulSale.business\obj\Debug\net7.0\ref\erkulSale.business.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.business\bin\Debug\net7.0\erkulSale.business.deps.json
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.business\bin\Debug\net7.0\erkulSale.business.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.business\bin\Debug\net7.0\erkulSale.business.pdb
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.business\bin\Debug\net7.0\erkulSale.data.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.business\bin\Debug\net7.0\erkulSale.entity.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.business\bin\Debug\net7.0\erkulSale.entity.pdb
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.business\bin\Debug\net7.0\erkulSale.data.pdb
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.business\obj\Debug\net7.0\erkulSale.business.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.business\obj\Debug\net7.0\erkulSale.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.business\obj\Debug\net7.0\erkulSale.business.AssemblyInfoInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.business\obj\Debug\net7.0\erkulSale.business.AssemblyInfo.cs
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.business\obj\Debug\net7.0\erkulSale.business.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.business\obj\Debug\net7.0\erkulSale.business.csproj.CopyComplete
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.business\obj\Debug\net7.0\erkulSale.business.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.business\obj\Debug\net7.0\refint\erkulSale.business.dll
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.business\obj\Debug\net7.0\erkulSale.business.pdb
+C:\Users\talha\OneDrive\Masaüstü\ErkulSale\erkulSale.business\obj\Debug\net7.0\ref\erkulSale.business.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.business\bin\Debug\net7.0\erkulSale.business.deps.json
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.business\bin\Debug\net7.0\erkulSale.business.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.business\bin\Debug\net7.0\erkulSale.business.pdb
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.business\bin\Debug\net7.0\erkulSale.data.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.business\bin\Debug\net7.0\erkulSale.entity.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.business\bin\Debug\net7.0\erkulSale.entity.pdb
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.business\bin\Debug\net7.0\erkulSale.data.pdb
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.business\obj\Debug\net7.0\erkulSale.business.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.business\obj\Debug\net7.0\erkulSale.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.business\obj\Debug\net7.0\erkulSale.business.AssemblyInfoInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.business\obj\Debug\net7.0\erkulSale.business.AssemblyInfo.cs
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.business\obj\Debug\net7.0\erkulSale.business.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.business\obj\Debug\net7.0\erkulSale.business.csproj.CopyComplete
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.business\obj\Debug\net7.0\erkulSale.business.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.business\obj\Debug\net7.0\refint\erkulSale.business.dll
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.business\obj\Debug\net7.0\erkulSale.business.pdb
+C:\Users\talha\OneDrive\Masaüstü\.NETCORE\ErkulSale\erkulSale.business\obj\Debug\net7.0\ref\erkulSale.business.dll

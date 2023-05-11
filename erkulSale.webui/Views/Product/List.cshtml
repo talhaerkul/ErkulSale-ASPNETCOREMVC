@@ -1,0 +1,34 @@
+@model ProductListViewModel
+@{
+    var products = Model.Products;
+    var PageInfo = Model.PageInfo;
+}
+@section CategoriesSection
+    {
+    @* buraya yazdıkların layoutdaki @RenderSection("CategoriesSection",false) yazısının yerine geçer. false required mı
+değil mi diye sorgular *@
+    @await Component.InvokeAsync("Categories")
+}
+
+@if (products.Count != 0)
+{
+    @section PageSection
+    {
+        @await Component.InvokeAsync("Page",PageInfo)
+    }
+    <div class="row">
+        @foreach (var p in products)
+        {
+            <div class="col-md-4">
+                <div class="product-list">
+                    @await Html.PartialAsync("_Products", p)
+                </div>
+            </div>
+
+        }
+    </div>
+}
+else
+{
+    @await Html.PartialAsync("_NoProduct")
+}

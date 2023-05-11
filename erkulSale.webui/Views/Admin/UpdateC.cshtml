@@ -1,0 +1,105 @@
+@model CategoryModel
+@{
+    var pro = @Model.Products;
+    var products = AdminViewUpdateCategoryService.GetAllProducts(1, 100);
+    foreach (var item in AdminViewUpdateCategoryService.GetAllProductsByCategoryId(@Model.CategoryId, 1, 100))
+    {
+        products.RemoveAll(a => a.Id == item.Id);
+    }
+    var NotInCategoryProducts = products;
+}
+<form asp-controller="Admin" asp-action="UpdateC" method="POST">
+    <div class="row">
+        <div class="col-md-4" style="text-align:center;">
+            <div class="card mb-5">
+                <div class="card-body">
+                    <h5 class="card-title">@Model.Name</h5>
+                    <p class="card-text">Url: @Model.Url</p>
+                    <a style="text-decoration:none" class="btn link-danger"
+                        href="/Admin/DeleteC/@Model.CategoryId">Kaldır</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8">
+            <div class="form-group row mb-3">
+                <div class="col-sm-4">
+                    <input type="hidden" class="form-control" asp-for="CategoryId">
+                </div>
+            </div>
+            <div class="form-group row mb-3">
+                <label asp-for="Name" class="col-sm-2 col-form-label"></label>
+                <div class="col-sm-4">
+                    <input class="form-control" asp-for="Name">
+                </div>
+            </div>
+            <div class="form-group row">
+                <label asp-for="Url" class="col-sm-2 col-form-label mb-3"></label>
+                <div class="col-sm-4">
+                    <input class="form-control" asp-for="Url">
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-sm-10 offset-sm-2">
+                    <button type="submit" class="btn btn-dark">Kaydet</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</form>
+<hr />
+<h1 style="color: #ffc107;">KATEGORİDE OLAN ÜRÜNLER</h1>
+<hr />
+<div class="row">
+    @if (Model.Products.Count() == 0)
+    {
+        <div class="alert alert-warning" style="text-align: center;">Ürün Yok</div>
+    }
+    @foreach (var item in Model.Products)
+    {
+        <div class="col-md-2">
+            <div class="card">
+                <a style="text-decoration:none" class="link-success" href="~/@item.Url">
+                    <img class="card-img-top" src="~/img/@item.ImgUrl" alt="">
+                </a>
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <p class="card-text">@item.Price TL</p>
+                    <form asp-controller="Admin" asp-action="DeleteFromC" method="POST" style="display: inline;">
+                        <input type="hidden" name="productId" value="@item.Id">
+                        <input type="hidden" name="categoryId" value="@Model.CategoryId">
+                        <button type="submit" class="btn btn-warning btn-sm">Kategoriden Kaldır</button>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+    }
+</div>
+<hr />
+<h1 style="color: #ffc107;">KATEGORİDE OLMAYAN ÜRÜNLER</h1>
+<hr />
+<div class="row">
+    @foreach (var item in NotInCategoryProducts)
+    {
+        <div class="col-md-2">
+
+            <div class="card">
+                <a style="text-decoration:none" class="link-success" href="~/@item.Url">
+                    <img class="card-img-top" src="~/img/@item.ImgUrl" alt="">
+                </a>
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <p class="card-text">@item.Price TL</p>
+                    <form asp-controller="Admin" asp-action="AddToC" method="POST" style="display: inline;">
+                        <input type="hidden" name="productId" value="@item.Id">
+                        <input type="hidden" name="categoryId" value="@Model.CategoryId">
+                        <button type="submit" class="btn btn-warning btn-sm">Kategoriye Ekle</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+

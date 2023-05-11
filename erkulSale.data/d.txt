@@ -1,0 +1,9 @@
+dotnet new classlib -o erkulSale.data
+
+-csproj
+<ItemGroup>
+    <ProjectReference Include="..\erkulSale.entity\erkulSale.entity.csproj" />
+</ItemGroup>
+
+dotnet add package Pomelo.EntityFrameworkCore.MySql
+dotnet add package Microsoft.EntityFrameworkCore.Design

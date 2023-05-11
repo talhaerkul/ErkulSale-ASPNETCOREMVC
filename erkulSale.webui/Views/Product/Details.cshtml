@@ -1,0 +1,71 @@
+@model Product
+@{
+    var catlist = ProductDetailService.GetCategoriesByProductId(@Model.Id);
+}
+@section CategoriesSection
+    {
+    <div class="list-group">
+        <a class="list-group-item" style="color: white; background-color: rgba(0, 0, 0, 0.846);">Benzer Ürünler</a>
+        @foreach (var c in ProductDetailService.GetProductsByName((@Model.Name).Substring(0,3)).ToList())
+        {
+            <a class="list-group-item list-group-item-action" href="~/@c.Url">@c.Name</a>
+        }
+
+    </div>
+    <div class="list-group">
+        <a class="list-group-item" style="color: white; background-color: rgba(0, 0, 0, 0.846);">Benzer Kategoriler</a>
+        @if (catlist is not null)
+        {
+            @foreach (var c in catlist)
+            {
+                <a class="list-group-item list-group-item-action" href="~/urunler/@c.Url">@c.Name</a>
+            }
+        }
+    </div>
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Details</title>
+</head>
+
+<body>
+    <div class="row">
+        <div class="col-md-5">
+            <div class="card">
+                <img class="card-img-top" src="~/img/@Model.ImgUrl" alt="">
+                <div class="card-body">
+                    @if (catlist is not null)
+                    {
+                        @foreach (var c in catlist)
+                        {
+                            <a class="link-success" href="~/urunler/@c.Url">@c.Name</a>
+                        }
+                    }
+                    <p> </p>
+                    <h4 class="card-title">@Model.Name</h4>
+                    <h1 class="card-title">@Model.Price TL</h1>
+                    <p class="card-text">@Html.Raw(Model.Description)</p>
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <form asp-controller="Cart" asp-action="AddToCart" method="post">
+                            <input type="hidden" name="productId" value="@Model.Id">
+                            <input type="hidden" name="quantity" value="1">
+                            <button class="btn btn-primary" type="submit">Sepete Ekle</button>
+                        </form>
+                    }
+                    else{
+                        <a href="~/account/login?ReturnUrl=~/@Model.Url" class="btn btn-dark" >Satın Al</a>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>

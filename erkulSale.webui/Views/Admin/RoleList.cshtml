@@ -1,0 +1,27 @@
+@model IEnumerable<IdentityRole>
+
+<div class="row">
+    <div class="col-ms-3" style="margin-bottom: 15px;">
+        <div class="card">
+            <a style="text-decoration:none" class="btn link-primary" href="/Admin/RoleCreate">
+                <div class="card-body">
+                    <h3 style="color: rgba(50,203,187,255);">Rol Ekle</h3>
+                </div>
+            </a>
+        </div>
+    </div>
+    @foreach (var item in Model)
+    {
+        <div class="col-md-3">
+            <div class="card">
+                <div class="card-body">
+                    <h1 class="card-text" style="color: rgba(50,203,187,255); text-align: center;">@item.Name</h1>
+                    <p class="card-title" style="text-align: center;">Id: @item.Id</p>
+                    <a style="text-decoration:none" class="btn link-primary" href="/Admin/RoleEdit/@item.Id">Güncelle</a>
+                    <a style="text-decoration:none" class="btn link-danger" href="/Admin/RoleDelete/@item.Id">Kaldırma
+                        İşlemi</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

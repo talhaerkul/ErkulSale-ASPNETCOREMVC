@@ -1,0 +1,32 @@
+﻿@model ProductListViewModel
+@{
+    var products = Model.Products;
+    var PageInfo = Model.PageInfo;
+}
+@* @section CategoriesSection
+    {
+    @await Component.InvokeAsync("Categories")
+} *@
+
+@if (products.Count != 0)
+{
+    @await Html.PartialAsync("_header")
+    
+    @section PageSection
+    {
+                @await Component.InvokeAsync("PageHome",PageInfo)
+    }
+    <div class="row">
+        @foreach (var p in products)
+        {
+            <div class="col-md-3">
+                @await Html.PartialAsync("_Products", p)
+            </div>
+            
+        }
+    </div>
+}
+else
+{
+    @await Html.PartialAsync("_NoProduct")
+}
